@@ -13,7 +13,7 @@ int frame=0;
 U8GLIB_SH1106_128X64 u8g(U8G_I2C_OPT_NO_ACK); 
 
 //--------HEXCODES--------
-//hexcode for the frames were generated from: 
+//hexcode for the frames were generated from: https://javl.github.io/image2cpp/
 // Hexcode from bitmap image for Hybrid Electrotech logo
 const unsigned char zeropic [] PROGMEM = {
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 
